@@ -1,4 +1,4 @@
-## Ingfoart
+# Ingfoart
 - Sebuah web landing page untuk submission di coding
 ## Teknologi
 - HTML 5
